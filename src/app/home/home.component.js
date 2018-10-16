@@ -9,7 +9,7 @@
 
   /** @ngInject */
   function HomeController($log, $rootScope, $translate, SAMPLE_CONSTANT) {
-    const vm = this;
+    var vm = this;
 
     // Scope variables go here:
     // vm.variable = 'value';
