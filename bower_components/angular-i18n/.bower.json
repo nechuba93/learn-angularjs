@@ -1,0 +1,21 @@
+{
+  "name": "angular-i18n",
+  "version": "1.7.5",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "precommit.sh"
+  ],
+  "homepage": "https://github.com/angular/bower-angular-i18n",
+  "_release": "1.7.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.7.5",
+    "commit": "14db68166eb5601ba3773ff7dff402d3eb25e124"
+  },
+  "_source": "https://github.com/angular/bower-angular-i18n.git",
+  "_target": "^1.7.4",
+  "_originalSource": "angular-i18n"
+}
